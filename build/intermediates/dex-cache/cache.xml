@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kinnimew/AndroidStudioProjects/Flashcard/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/kinnimew/AndroidStudioProjects/Flashcard/app/build/intermediates/pre-dexed/debug/classes-5c557f85fd5bd617d5ee8410be357aabf647efe9.jar" />
+    </item>
+    <item
+        jar="/Users/kinnimew/AndroidStudioProjects/Flashcard/backend/build/libs/backend-android-endpoints.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cd2ad74a67230e97352467d2ec87eab4c60654a0">
+        <dex dex="/Users/kinnimew/AndroidStudioProjects/Flashcard/app/build/intermediates/pre-dexed/debug/backend-android-endpoints-9a6655c5e3c375f4c9305bcde2cb5b31c7c25f18.jar" />
+    </item>
+    <item
+        jar="/Users/kinnimew/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.19.0/e3f11020c2c812112803d252d1392872d3f619c8/google-http-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3f11020c2c812112803d252d1392872d3f619c8">
+        <dex dex="/Users/kinnimew/AndroidStudioProjects/Flashcard/app/build/intermediates/pre-dexed/debug/google-http-client-android-1.19.0-f8138df1c60427223d4a6087fe6ae9cb3e55e9ac.jar" />
+    </item>
+    <item
+        jar="/Users/kinnimew/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/13.0/381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7/guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="/Users/kinnimew/AndroidStudioProjects/Flashcard/app/build/intermediates/pre-dexed/debug/guava-jdk5-13.0-23fbc870196b9d60efa0aa503f7148037ba1dcdc.jar" />
+    </item>
+    <item
+        jar="/Users/kinnimew/Documents/android_sdk/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/kinnimew/AndroidStudioProjects/Flashcard/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-57f2aa0eb1ba48740f2d46bbe2a8062dda41f71d.jar" />
+    </item>
+    <item
+        jar="/Users/kinnimew/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.19.0/d473a8962e14a707a3716637e4898bb2dd9643f2/google-oauth-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2">
+        <dex dex="/Users/kinnimew/AndroidStudioProjects/Flashcard/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.19.0-3ac20883de47b3a910363dcff883d8c07a1daeda.jar" />
+    </item>
+    <item
+        jar="/Users/kinnimew/AndroidStudioProjects/Flashcard/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/kinnimew/AndroidStudioProjects/Flashcard/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-79f0eb25a3bea1d7e5e3338d9c96e28e16c71769.jar" />
+    </item>
+    <item
+        jar="/Users/kinnimew/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/kinnimew/AndroidStudioProjects/Flashcard/app/build/intermediates/pre-dexed/debug/jsr305-1.3.9-39b2fb5c53dee4b824806144b808af25297c74e6.jar" />
+    </item>
+    <item
+        jar="/Users/kinnimew/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.19.0/81dbf9795d387d5e80e55346582d5f2fb81a42eb/google-http-client-jackson2-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
+        <dex dex="/Users/kinnimew/AndroidStudioProjects/Flashcard/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.19.0-ae29f380de5c27920bcdd093c0da4139ca14099c.jar" />
+    </item>
+    <item
+        jar="/Users/kinnimew/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/kinnimew/AndroidStudioProjects/Flashcard/app/build/intermediates/pre-dexed/debug/library-2.4.0-397bf791abb871a3308da35846fdb7522995e1e7.jar" />
+    </item>
+    <item
+        jar="/Users/kinnimew/AndroidStudioProjects/Flashcard/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="/Users/kinnimew/AndroidStudioProjects/Flashcard/app/build/intermediates/pre-dexed/debug/classes-ac97bfe3276b8da15dc2d34a7db66289abdefc32.jar" />
+    </item>
+    <item
+        jar="/Users/kinnimew/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.19.0/ba2aafb867f6af469f936ae76426cf0a280094bd/google-api-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba2aafb867f6af469f936ae76426cf0a280094bd">
+        <dex dex="/Users/kinnimew/AndroidStudioProjects/Flashcard/app/build/intermediates/pre-dexed/debug/google-api-client-android-1.19.0-9cf1e4955299fc354a3842303769533706aa4a2a.jar" />
+    </item>
+    <item
+        jar="/Users/kinnimew/AndroidStudioProjects/Flashcard/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/kinnimew/AndroidStudioProjects/Flashcard/app/build/intermediates/pre-dexed/debug/classes-bed9c661d8fe694fd33e5b41ff93ae1c7682b26c.jar" />
+    </item>
+    <item
+        jar="/Users/kinnimew/AndroidStudioProjects/Flashcard/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/kinnimew/AndroidStudioProjects/Flashcard/app/build/intermediates/pre-dexed/debug/classes-e5b20c5e25abc587f1d924c404abeaafcb74d429.jar" />
+    </item>
+    <item
+        jar="/Users/kinnimew/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.19.0/6a21277d9bebe267b7ddee028b241eebc756c040/google-api-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6a21277d9bebe267b7ddee028b241eebc756c040">
+        <dex dex="/Users/kinnimew/AndroidStudioProjects/Flashcard/app/build/intermediates/pre-dexed/debug/google-api-client-1.19.0-f8d6ce1f9414964c4a4f0c20d0f1107762b6f3a0.jar" />
+    </item>
+    <item
+        jar="/Users/kinnimew/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/kinnimew/AndroidStudioProjects/Flashcard/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3-05909e5c4770b73b68e3a096612ac1e4fce160b9.jar" />
+    </item>
+    <item
+        jar="/Users/kinnimew/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.19.0/cdca49ad0977c040f603478aa2e16b2775c8fec6/google-http-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
+        <dex dex="/Users/kinnimew/AndroidStudioProjects/Flashcard/app/build/intermediates/pre-dexed/debug/google-http-client-1.19.0-1fc6cfca84abcdd07f7b0ed7403583771255b643.jar" />
+    </item>
+
+</items>
